@@ -9,3 +9,4 @@ const saudacao =() =>{
 
 hellowWord();
 console.log(`A saudação no momento é: `+saudacao());
+// Comnetários melhorados
